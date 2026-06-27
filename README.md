@@ -57,3 +57,10 @@ Columns:
 
 
 ---------------------------------------------------------------------------------
+
+
+CAINC4_CA.csv is the BEA Personal Income by County Dataset provides annual estimates of total personal income, per capita personal income, and income by major source (wages, proprietors' income, dividends, interest, rent, and government transfers) for every county in the United States. 
+
+CAINC4 = Personal Income and Employment by Major Component by County
+
+https://www.bea.gov/data/income-saving/personal-income-by-county
