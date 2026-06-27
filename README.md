@@ -64,3 +64,12 @@ CAINC4_CA.csv is the BEA Personal Income by County Dataset provides annual estim
 CAINC4 = Personal Income and Employment by Major Component by County
 
 https://www.bea.gov/data/income-saving/personal-income-by-county
+
+More Important Rows:
+
+["Per capita personal income (dollars) 4/",
+    "Wages and salaries ",
+    "Personal income (thousands of dollars)",
+    "Equals: Net earnings by place of residence ",
+    "Plus: Dividends, interest, and rent 7/",
+    "Population (persons) 3/"]
