@@ -6,3 +6,14 @@ realtor-data-ca.csv is the Kaggle data set (176KB) filter down to Califoria stat
 Current shape is (227215 rows, 12 columns)
 https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset?resource=download
 Columns include ['brokered_by', 'status', 'price', 'bed', 'bath', 'acre_lot', 'street', 'city', 'state', 'zip_code', 'house_size', 'prev_sold_date']
+
+ca county population 2020-25.csv is the E-2. California County Population Estimates and
+Components of Change by Year — July 1, 2020-2025 that accounts for population for each year from 2020 to 2025 for 58 different counties 
+https://dof.ca.gov/forecasting/demographics/estimates/E-2/
+Counties include Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado,
+Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera,
+Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer,
+Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San
+Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra,
+Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo,
+Yuba.
