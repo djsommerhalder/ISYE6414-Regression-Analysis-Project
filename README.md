@@ -10,10 +10,9 @@ Columns include ['brokered_by', 'status', 'price', 'bed', 'bath', 'acre_lot', 's
 ca county population 2020-25.csv is the E-2. California County Population Estimates and
 Components of Change by Year — July 1, 2020-2025 that accounts for population for each year from 2020 to 2025 for 58 different counties 
 https://dof.ca.gov/forecasting/demographics/estimates/E-2/
-Counties include Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado,
-Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera,
-Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer,
-Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San
-Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra,
-Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo,
-Yuba.
+Columns include ['County', 'Revised  July 1, 2020', 'Revised  July 1, 2021', 'Revised  July 1, 2022', 'Revised  July 1, 2023', 'Revised  July 1, 2024', 'Preliminary  July 1, 2025']
+Counties include Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo, Yuba.
+
+
+hpi_at_county.csv is House Price Index that is comprehensive​ collection of publicly available house price indexes that measure changes in single-family home values based on data that extend back to the mid-1970s and includes all 58 counties in CA as well after filtering. https://www.fhfa.gov/data/hpi/datasets
+
