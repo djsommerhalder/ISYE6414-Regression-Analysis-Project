@@ -9,6 +9,7 @@ Columns include ['brokered_by', 'status', 'price', 'bed', 'bath', 'acre_lot', 's
 
 ca county population 2020-25.csv is the E-2. California County Population Estimates and
 Components of Change by Year — July 1, 2020-2025 that accounts for population for each year from 2020 to 2025 for 58 different counties 
+https://dof.ca.gov/forecasting/demographics/estimates/E-2/
 Counties include Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado,
 Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera,
 Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer,
